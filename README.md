@@ -1,8 +1,7 @@
-#Library
 
-## Library for DragAndDrop
+## DragAndDrop 
 class for draggable object ".draggable"
 class for container ".boxcont"
 
-## Library for CopyButton
+## CopyButton
 id for button "#copybtn"
